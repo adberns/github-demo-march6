@@ -7,3 +7,4 @@ A pretty standard workflow if you're working by yourself would be:
 * push to send your changes to the server/remote repository
 * pull to get updated changes from the remote repository when you are working on a different machine (or the same one)
 
+* I'll make another edit that we'll remove here
